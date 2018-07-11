@@ -13,12 +13,11 @@
   "full_academic_year_registration": false,
   "single_access": false,
   "active_semesters": {
-    "2018": [
+    "2019": [
       "Winter"
     ],
-    "2017": [
-      "Fall",
-      "Winter"
+    "2018": [
+      "Fall"
     ]
   }
 }
